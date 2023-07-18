@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Yummy
-Template URL: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/
+Template Name: BTG
+Template URL: https://bootstrapmade.com/-bootstrap-website-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
